@@ -2,7 +2,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
-import { AppComponent } from 'src/app/Components/app.component';
+import { AppComponent } from 'src/app/Components/Master/app.component';
 import { CabeceraComponent } from './Components/cabecera/cabecera.component';
 
 @NgModule({

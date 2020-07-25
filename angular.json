@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ECOMPONENTES"
+    }
+  },
+  "defaultProject": "ECOMPONENTES",
+  "cli": {
+    "analytics": "fe896e97-663c-44e6-906d-e93a349813c5"
+  }
 }
